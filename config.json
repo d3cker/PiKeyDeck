@@ -1,0 +1,47 @@
+{
+    "General" : {
+        "icons_path" : "streamdeck-elite-icons",
+        "icons_theme" : "Sidewinder Orange",
+        "image_scale" : "3",
+        "row_max_buttons" : "6",
+        "deck_theme" : "Dark Purple 4",
+        "deck_font_name" : "Arial",
+        "deck_font_size" : "25",
+        "deck_text" : "",
+        "button_pad_x" : "25",
+        "button_pad_y" : "12",
+        "button_resize" : "False",
+        "empty_buttons" : "True",
+        "border_width" : "4",
+        "button_font_color" : "orange",
+        "button_color_overwrite" : "True",
+        "key_release_delay" : "0.3"
+
+    },
+    "DeckButtons": [
+        { "key_name" : "L", "key_code" : "0x0f","key_text" : "\n\n\n\n\nLANDING\nGEAR", "key_icon" : "landing-gear-normal.png" },
+        { "key_name" : "X", "key_code" : "0x1b","key_text" : "\n\n\n\n\nSPEED\n0%", "key_icon" : "supercruise-decelerate-normal.png" },
+        { "key_name" : "J", "key_code" : "0x0d","key_text" : "\n\n\n\n\nCHARGE FSD \nHYPERSPACE", "key_icon" : "hyperspace-normal.png" },
+        { "key_name" : "INS", "key_code" : "0x49","key_text" : "\n\n\n\n\nLIGHTS", "key_icon" : "ship-lights-normal.png" },
+        { "key_name" : "DEL", "key_code" : "0x4c","key_text" : "\n\n\n\n\nSILENT", "key_icon" : "silent-running-normal.png" },
+        { "key_name" : "SBR", "key_code" : "0x30","key_text" : "\n\n\n\n\nNIGHT\nVISION", "key_icon" : "night-vision-normal.png" },
+        { "key_name" : "U", "key_code" : "0x18","key_text" : "\n\n\n\n\nHARDPOINTS", "key_icon" : "hardpoints-normal.png" },
+        { "key_name" : "N", "key_code" : "0x11","key_text" : "\n\n\n\n\nNEXT\nFIREGROUP", "key_icon" : "next-firegroup-normal.png" },
+        { "key_name" : "T", "key_code" : "0x17","key_text" : "\n\n\n\n\nTARGET", "key_icon" : "target-normal.png" },
+        { "key_name" : "G", "key_code" : "0x0a","key_text" : "\n\n\n\n\nNEXT\nTARGET", "key_icon" : "target-next-normal.png" },
+        { "key_name" : "M", "key_code" : "0x10","key_text" : "\n\n\n\n\nANALYSIS\nCOMBAT", "key_icon" : "analysis-mode-normal.png" },
+        { "key_name" : "'", "key_code" : "0x34","key_text" : "\n\n\n\n\nFSS\nSCAN", "key_icon" : "fss-normal.png" },
+        { "key_name" : "LEFT", "key_code" : "0x50","key_text" : "\n\n\n\n\nSHIELD\nPOWER", "key_icon" : "shield-power-normal.png" },
+        { "key_name" : "UP", "key_code" : "0x52","key_text" : "\n\n\n\n\nENGINE\nPOWER", "key_icon" : "engine-power-normal.png" },
+        { "key_name" : "RIGHT", "key_code" : "0x4f","key_text" : "\n\n\n\n\nWEAPONS\nPOWER", "key_icon" : "weapon-power-normal.png" },
+        { "key_name" : "DOWN", "key_code" : "0x51","key_text" : "\n\n\n\n\nBALANCE\nPOWER", "key_icon" : "balance-power-normal.png" },
+        { "key_name" : "HOME", "key_code" : "0x4a","key_text" : "\n\n\n\n\nCARGO\nSCOOP", "key_icon" : "cargo-scoop-normal.png" },
+        { "key_name" : "SLASH", "key_code" : "0x38","key_text" : "\n\n\n\n\nCARGO\nEJECT", "key_icon" : "eject-cargo-normal.png" },
+        { "key_name" : "1", "key_code" : "0x1e","key_text" : "\n\n\n\n\nNAVIGATION\nPANEL", "key_icon" : "exploration-normal.png" },
+        { "key_name" : "2", "key_code" : "0x1f","key_text" : "\n\n\n\n\nCOMMS\nPANEL", "key_icon" : "comms-panel-normal.png" },
+        { "key_name" : "3", "key_code" : "0x20","key_text" : "\n\n\n\n\nCMDR\nPANEL", "key_icon" : "nav-panel-normal.png" },
+        { "key_name" : "4", "key_code" : "0x21","key_text" : "\n\n\n\n\nMODULES\nPANEL", "key_icon" : "trade-normal.png" },
+        { "key_name" : "PERIOD", "key_code" : "0x36","key_text" : "\n\n\n\n\nGALAXY\nMAP", "key_icon" : "galaxy-map-normal.png" },
+        { "key_name" : "DOT", "key_code" : "0x37","key_text" : "\n\n\n\n\nSYSTEM\nMAP", "key_icon" : "system-map-normal.png" }
+    ]
+}
